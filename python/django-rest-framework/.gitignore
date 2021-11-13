@@ -6,4 +6,5 @@
 
 # Editor directories and files
 .idea
-/*/idea
+/*/.idea
+/*/__pycache__
